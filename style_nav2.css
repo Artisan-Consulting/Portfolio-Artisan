@@ -1,0 +1,16 @@
+
+.main-menu {
+    <section id="main-menu">
+            <div class="flex-container-menu">
+                    <ul>Home</ul>
+                    <ul>Background</ul>
+                    <ul>Portfolio</ul> 
+                    <ul>Services</ul> 
+                    <ul>Skills</ul>  
+                    <ul>Testimonies</ul>    
+                    <ul>Resources</ul> 
+                    <ul>Contact</ul>     
+            </div>                 
+    </section>
+
+}
