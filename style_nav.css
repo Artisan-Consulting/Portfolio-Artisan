@@ -1,0 +1,12 @@
+.flex-container-nav {
+    display: flex;
+    background-color: rgb(187, 199, 209);
+  }
+  
+  .flex-container-nav > div {
+    background-color: #9d6735;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+
+  }

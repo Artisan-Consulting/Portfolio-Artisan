@@ -1,0 +1,6 @@
+==========================================
+ISSUES LOG for the Portfolio webiste
+==========================================
+
+2023.08.07 There are still issues with the cascading element setting where the specififity issues. Theses are to be fixed in the next release.
+2023.08.07 There are also basic graphics as part of the content to be inserted in the release after that.
